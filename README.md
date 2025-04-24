@@ -72,3 +72,15 @@ streamlit run streamlit_app.py
 
 **Mallikarjun Sonna**  
 📧 mallusonna43@gmail.com
+
+---
+
+## 🧪 Tests
+
+This project includes basic tests to ensure functionality.
+
+Run tests using:
+
+```bash
+python -m unittest discover -s tests
+
