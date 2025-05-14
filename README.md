@@ -27,7 +27,7 @@ web-research-agent/
 │   ├── scraper.py            # Scrapes text from a URL
 │   └── analyzer.py           # HuggingFace summarizer
 │
-├── .env                      # Your SerpAPI key
+├── .env                      # SerpAPI key
 ├── requirements.txt          # Project dependencies
 ```
 
